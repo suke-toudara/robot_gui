@@ -1,0 +1,13 @@
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/robot_gui
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/suke/Flutter/robot_gui/build/linux/x64/debug/bundle/data/flutter_assets/version.json

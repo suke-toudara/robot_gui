@@ -1,0 +1,14 @@
+#このファイルでは、Flutter がコードを解析する際の厳格さを指定します。
+#今回は Flutter を初めて使うので、緩やかな設定にしています。
+#これはいつでも後で調整できます。実際の製品版アプリの公開が近付けば、これよりも厳しくするのは間違いないでしょう。
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: false
+    prefer_final_fields: false
+    use_key_in_widget_constructors: false
+    prefer_const_literals_to_create_immutables: false
+    prefer_const_constructors_in_immutables: false
+    avoid_print: false
